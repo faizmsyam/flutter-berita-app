@@ -1,4 +1,4 @@
-# berita_app
+# BeritaQ App 
 
 A new Flutter project.
 
